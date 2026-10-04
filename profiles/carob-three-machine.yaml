@@ -1,0 +1,23 @@
+name: carob-three-machine
+version: 0.1
+status: research
+scope: species-agnostic ecological and agricultural systems
+
+loop:
+  - ecosystem_observation
+  - decentralized_or_verifiable_data
+  - ai_interpretation
+  - evidence_validation
+  - knowledge_formalization
+  - contributor_recognition
+  - policy_decision
+  - ecological_action
+  - ecosystem_feedback
+
+principles:
+  ai_outputs_are_hypotheses: true
+  scientific_validation_required: true
+  compose_existing_infrastructure: true
+  chain_agnostic: true
+  no_proprietary_runtime_required: true
+  no_claim_of_absolute_novelty: true
